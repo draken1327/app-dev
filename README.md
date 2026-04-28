@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# My Favorite Series is Peaky Blinders
+# My Favorite Series is Peaky Blinders 🎬
 **Genre:** Crime, Drama
 ## The Protagonist of the Series is
 	```
@@ -11,3 +11,5 @@ My first repository
   "age": 44
 }
 ```
+## Rating
+⭐⭐⭐⭐⭐ (5/5)
