@@ -2,8 +2,8 @@
 My first repository
 
 # My Favorite Series is Peaky Blinders
+**Genre:** Crime, Drama
 ## The Protagonist of the Series is
-
 	```
 {
   "firstName": "Thomas",
